@@ -1,6 +1,7 @@
 # shape-comparing-java
 COP2805 Assignment 6 | Fall Semester, 2025 | Brody Stewart
-This assignment was for my Advanced Java Programming Course at Valencia College in the Fall 2025 semester. It was for assignemtn 6, which was an assignment with a very clear outline on what it should do. Its ultimate learning goal was to explore the idea of classes, objects, comparables and inheritance. 
+
+This assignment was for my Advanced Java Programming Course at Valencia College in the Fall 2025 semester. It was for assignment 6, which was an assignment with a very clear outline on what it should do. Its ultimate learning goal was to explore the idea of classes, objects, comparables and inheritance. 
 
 This program takes no inputs, but it does output some information to the user. If the user would like to edit the variables of the shape sizes, they must do so in the main function.
 
